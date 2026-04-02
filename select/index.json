@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "決心",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-04-02T04:25:09.471121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "決心",
+      "artist": "Hitoshi Fujita",
+      "has_synced": false,
+      "path": "select/01_決心_Hitoshi_Fujita.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "決心",
+      "artist": "Hitoshi Fujima",
+      "has_synced": false,
+      "path": "select/02_決心_Hitoshi_Fujima.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "決心",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/03_決心_SUPER_BEAVER.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "決心 (remix)",
+      "artist": "Sandy Lam",
+      "has_synced": false,
+      "path": "select/04_決心_(remix)_Sandy_Lam.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "決心 (remix)",
+      "artist": "Lam, Sandy",
+      "has_synced": false,
+      "path": "select/05_決心_(remix)_Lam,_Sandy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "決心",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/06_決心_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "決心",
+      "artist": "趙傳",
+      "has_synced": false,
+      "path": "select/07_決心_趙傳.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "決心 (remix)",
+      "artist": "林憶蓮",
+      "has_synced": true,
+      "path": "select/08_決心_(remix)_林憶蓮.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "決心",
+      "artist": "岩崎宏美",
+      "has_synced": false,
+      "path": "select/09_決心_岩崎宏美.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "決心",
+      "artist": "赵传",
+      "has_synced": false,
+      "path": "select/10_決心_赵传.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "決心 - Kesshin",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/11_決心_-_Kesshin_SUPER_BEAVER.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "決心",
+      "artist": "岩崎　宏美",
+      "has_synced": false,
+      "path": "select/12_決心_岩崎_宏美.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "決心",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_決心_SUPER_BEAVER.txt"
+    }
+  ]
+}
